@@ -45,6 +45,10 @@ Məhsulların idarə edilməsi və stok izləmə.
 ![Reports](https://i.imgur.com/GHI101.png)
 Ətraflı hesabatlar və analitika.
 
+### İstifadəçılər
+![Reports](https://i.imgur.com/GHI101.png)
+İstifadəçi İdarəetməsi.
+
 ## 🛠️ Quraşdırma
 
 1. Repo-nu klonlayın:
