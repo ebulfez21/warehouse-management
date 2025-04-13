@@ -125,7 +125,7 @@ npm run dev
 [Ebulfez-Netlify](https://ebulfez-warehouse-management.netlify.app/)
 
 ## 🌟 İstifadəki 
-1. Email
-2. test_warehouse@gmail.com
-3. Şifrə
-4. admin123
+- Email
+- test_warehouse@gmail.com
+- Şifrə
+- admin123
