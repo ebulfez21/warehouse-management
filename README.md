@@ -34,26 +34,26 @@ Anbar İdarəetmə Sistemi, məhsulların və anbar əməliyyatlarının idarə 
 ## 📸 Ekran Görüntüləri
 
 ### Əsas Səhifə
-![Dashboard](https://i.imgur.com/ABC456.png)
+![Dashboard](https://github.com/ebulfez21/warehouse-management/blob/main/src/img/esas.png)
 Əsas səhifədə ümumi statistika və son əməliyyatlar göstərilir.
 
 ### Məhsullar
-![Products](https://i.imgur.com/DEF789.png)
+![Products](https://github.com/ebulfez21/warehouse-management/blob/main/src/img/m%C9%99hsul.png)
 Məhsulların idarə edilməsi və stok izləmə.
 
 ### Hesabatlar
-![Reports](https://i.imgur.com/GHI101.png)
+![Reports](https://github.com/ebulfez21/warehouse-management/blob/main/src/img/hesabat.png)
 Ətraflı hesabatlar və analitika.
 
 ### İstifadəçılər
-![Reports](https://i.imgur.com/GHI101.png)
+![Reports](https://github.com/ebulfez21/warehouse-management/blob/main/src/img/istifad%C9%99ci.png)
 İstifadəçi İdarəetməsi.
 
 ## 🛠️ Quraşdırma
 
 1. Repo-nu klonlayın:
 ```bash
-git clone https://github.com/your-username/warehouse-management.git
+git clone https://github.com/ebulfez21/warehouse-management.git
 ```
 
 2. Asılılıqları yükləyin:
