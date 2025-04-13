@@ -3,13 +3,13 @@ import { getAuth } from 'firebase/auth';
 import { getFirestore } from 'firebase/firestore';
 
 const firebaseConfig = {
-  apiKey: "AIzaSyB6JrdWn_aYc1qKof6yOgi9nU8yCjOhcM8",
-  authDomain: "ebulfez-2652d.firebaseapp.com",
-  projectId: "ebulfez-2652d",
-  storageBucket: "ebulfez-2652d.firebasestorage.app",
-  messagingSenderId: "602014159343",
-  appId: "1:602014159343:web:6cb6823aaa39684269261a",
-  measurementId: "G-WKND2EQK11"
+  apiKey: "AIzaSyDBRbxFUjkzWo1RBeCHVcUqN4xGLb2TlPM",
+  authDomain: "warehouse-management-8329b.firebaseapp.com",
+  projectId: "warehouse-management-8329b",
+  storageBucket: "warehouse-management-8329b.firebasestorage.app",
+  messagingSenderId: "242383441072",
+  appId: "1:242383441072:web:de0c9506a4a06be63ebf75",
+  measurementId: "G-Y1QWXHWB3R"
 };
 
 const app = initializeApp(firebaseConfig);
