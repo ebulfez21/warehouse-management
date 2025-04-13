@@ -124,3 +124,6 @@ npm run dev
 [Ebulfez-GitHub](https://github.com/ebulfez21/warehouse-management.git)
 [Ebulfez-Netlify](https://ebulfez-warehouse-management.netlify.app/)
 
+## 🌟 İstifadəki 
+test_warehouse@gmail.com
+Şifrə: admin123
