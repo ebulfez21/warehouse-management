@@ -1,6 +1,6 @@
 # Anbar İdarəetmə Sistemi 🏭
 
-![Dashboard](https://i.imgur.com/XYZ123.png)
+![Dashboard](https://github.com/ebulfez21/warehouse-management/blob/main/src/img/esas.png)
 
 Anbar İdarəetmə Sistemi, məhsulların və anbar əməliyyatlarının idarə edilməsi üçün müasir və effektiv bir veb tətbiqdir.
 
