@@ -121,7 +121,6 @@ npm run dev
 4. Push edin (`git push origin feature/amazing-feature`)
 5. Pull Request yaradın
 
-## 📄 Lisenziya
-
-MIT © [Your Name]
+[Ebulfez-GitHub](https://github.com/ebulfez21/warehouse-management.git)
+[Ebulfez-Netlify](https://ebulfez-warehouse-management.netlify.app/)
 
